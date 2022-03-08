@@ -12,3 +12,6 @@ print(heroName)
 
 let 🏹: String = "mark"
 print(🏹)
+
+//let jika variablenya gak berubah
+//var juka variablenya dapat/sering berubah
